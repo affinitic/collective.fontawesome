@@ -2,6 +2,5 @@
 <object name="portal_css">
  <stylesheet
     id="++resource++collective.fontawesome/css/font-awesome.min.css"
-    applyPrefix="1"
     />
 </object>
